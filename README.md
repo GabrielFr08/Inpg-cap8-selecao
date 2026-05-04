@@ -1,6 +1,6 @@
 # Atividade de Estruturas de Seleção (Cap. 8)
 
-**Nome:** [SEU NOME]
+**Nome:** Gabriel França Bento Catunda
 **LLM Utilizado:** Gemini
 **Modelo:** Gemini 3 Flash
 
